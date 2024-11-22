@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 
 // Insira o token do Bot aqui
-const token = 'SEU_TOKEN_AQUI';
+const token = '7914677594:AAE12E7a11H46fO6mHT_5GZfwgNNiBg4SIw';
 const bot = new TelegramBot(token, { polling: true });
 
 // URL do jogo
